@@ -1,0 +1,10 @@
+.course{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin:10px;
+
+}
+.course-img{
+    width: 345px;
+    margin: 2px;
+}
